@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fe254f87-8382-4ba4-9c0a-3c2c275b9bdd" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="fe254f87-8382-4ba4-9c0a-3c2c275b9bdd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,9 +23,6 @@
     <expand />
     <select />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="chatroom" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -32,13 +30,22 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="JsbtTreeLayoutManager">
     <layout place="tools.popupGrunt">
       <scroll-view-position x="0" y="0" />
     </layout>
   </component>
   <component name="ProjectId" id="1aZF7gB1axQWbQmAoWun7h2MGX8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -50,19 +57,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.login1 (1)">
+  <component name="RunManager" selected="Application.server_connect">
     <configuration name="client1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Client.client1" />
       <module name="chatroom" />
@@ -130,14 +125,15 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.server_connect" />
         <item itemvalue="Application.login1 (1)" />
         <item itemvalue="Application.login2" />
         <item itemvalue="Application.login" />
-        <item itemvalue="Application.server_connect" />
         <item itemvalue="Application.client1" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -161,11 +157,26 @@
       <workItem from="1589456403614" duration="37371000" />
       <workItem from="1589547601639" duration="9253000" />
       <workItem from="1589561689113" duration="140104000" />
+      <workItem from="1604677839310" duration="118000" />
+      <workItem from="1604677989964" duration="24000" />
+      <workItem from="1604678027680" duration="146000" />
+      <workItem from="1604678189687" duration="87000" />
+      <workItem from="1604795629463" duration="46000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="319" key="#Notifications" timestamp="1604678203959">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="559" y="319" key="#Notifications/0.0.1646.989@0.0.1646.989" timestamp="1604678203959" />
+    <state x="484" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1604678233596">
+      <screen x="0" y="0" width="1646" height="989" />
+    </state>
+    <state x="484" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1646.989@0.0.1646.989" timestamp="1604678233596" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
